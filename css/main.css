@@ -1,0 +1,16 @@
+body {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	text-decoration: none;
+}
+
+.change {
+	color: salmon;
+	font-family: courier;
+}
+
+.salmon {
+	font-size: 56px;
+	
+}
